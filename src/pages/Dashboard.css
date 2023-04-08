@@ -1,0 +1,646 @@
+.hi-vikas-gupta {
+  position: relative;
+}
+.hi-vikas-gupta-wrapper {
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-11xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--title-regular-size);
+}
+.your-current-credit {
+  position: relative;
+  line-height: 18px;
+}
+.aadhaar-card-otp {
+  position: relative;
+  line-height: 24px;
+}
+.aadhaar-card-otp-verification-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aadhaar-card-otp1 {
+  position: relative;
+  font-size: var(--subtext-bold-size);
+  line-height: 16px;
+  display: inline-block;
+  width: 150px;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-base);
+}
+.aadhaar-card-otp7 {
+  position: relative;
+  font-size: var(--subtext-bold-size);
+  line-height: 16px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.aadhaar-card-otp8 {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  width: 320px;
+}
+.frame-child,
+.frame-item {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 106px;
+  height: 6px;
+  flex-shrink: 0;
+}
+.frame-child {
+  background-color: var(--primary-purple);
+}
+.frame-item {
+  border: 0.5px solid var(--primary-purple);
+  box-sizing: border-box;
+}
+.aadhaar-card-otp-verification-parent,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aadhaar-card-otp-verification-parent {
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+  gap: var(--gap-5xs);
+}
+.pay-next-instalment-wrapper {
+  border-radius: 48px;
+  background-color: var(--primary-purple);
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.aadhaar-card-otp9 {
+  flex: 1;
+}
+.aadhaar-card-otp10,
+.aadhaar-card-otp9 {
+  position: relative;
+  line-height: 16px;
+}
+.aadhaar-card-otp-verification-group {
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-parent5,
+.frame-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper2 {
+  width: 320px;
+}
+.frame-parent5 {
+  font-size: var(--subtext-bold-size);
+}
+.frame-group {
+  border-radius: var(--br-5xs);
+  background-color: var(--tertiary-purple);
+  width: 340px;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: 15px;
+  text-align: left;
+}
+.frame-group,
+.frame-wrapper,
+.your-current-credit-plan-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.your-current-credit-plan-parent {
+  gap: var(--gap-3xs);
+}
+.frame-wrapper {
+  text-align: center;
+  color: var(--color-gray-300);
+}
+.aadhaar-card-otp-verification-wrapper4,
+.my-transactions-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.my-transactions-wrapper {
+  width: 340px;
+  padding: var(--padding-5xl) var(--padding-11xs) var(--padding-xl);
+  box-sizing: border-box;
+}
+.aadhaar-card-otp-verification-wrapper4 {
+  border-radius: var(--br-9xs);
+  background-color: var(--tertiary-green);
+  padding: var(--padding-9xs) var(--padding-7xs);
+  color: var(--primary-green);
+}
+.vector-icon {
+  position: relative;
+  width: 13px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.aadhaar-card-otp-verification-parent3 {
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-purple);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-wrapper7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.aadhaar-card-otp-verification-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.aadhaar-card-otp17 {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  width: 150px;
+}
+.frame-parent12 {
+  flex: 1;
+  flex-direction: column;
+  font-size: var(--body-bold-size);
+}
+.aadhaar-card-otp-verification-wrapper7,
+.frame-parent12,
+.frame-parent9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent9 {
+  border-bottom: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 340px;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0;
+}
+.aadhaar-card-otp-verification-wrapper7 {
+  border-radius: var(--br-9xs);
+  background-color: #ffe8ea;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-7xs);
+  color: #df4759;
+}
+.frame-parent8,
+.frame-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent8 {
+  gap: var(--gap-base);
+}
+.frame-wrapper6 {
+  font-size: var(--subtext-bold-size);
+  color: var(--color-gray-300);
+}
+.contact-support {
+  position: relative;
+  text-decoration: underline;
+}
+.contact-support-wrapper {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  height: 48px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--body-bold-size);
+  color: var(--primary-purple);
+}
+.frame-parent6,
+.loan-agreement-download-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  width: 340px;
+  flex-direction: column;
+  padding: var(--padding-xl) 0 var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-base);
+}
+.loan-agreement-download-wrapper {
+  flex: 1;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+}
+.vector-icon3 {
+  position: relative;
+  width: 14px;
+  height: 17px;
+  flex-shrink: 0;
+}
+.frame-parent21 {
+  border-radius: var(--br-5xs);
+  background-color: var(--tertiary-purple);
+  width: 340px;
+  height: 48px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xl) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.frame-parent,
+.frame-wrapper10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper10 {
+  color: var(--primary-purple);
+}
+.frame-parent {
+  position: absolute;
+  top: 152px;
+  left: 10px;
+}
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-purple);
+  width: 32px;
+  height: 4px;
+}
+.group-inner,
+.group-item {
+  top: 10px;
+}
+.group-inner {
+  top: 20px;
+}
+.rectangle-group {
+  position: relative;
+  width: 32px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.group-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-3xs) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.layer-1-icon {
+  position: relative;
+  width: 131.71px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.carepay-logo-main-wo-padding,
+.carepay-logo-main-wo-padding-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.carepay-logo-main-wo-padding-wrapper {
+  width: 225px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.help {
+  position: relative;
+  font-size: var(--subtext-bold-size);
+  line-height: 16px;
+  font-family: var(--body-bold);
+  color: var(--primary-purple);
+  text-align: left;
+}
+.vector-icon4 {
+  position: relative;
+  width: 16.5px;
+  height: 16.5px;
+  flex-shrink: 0;
+}
+.help-parent {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-antiquewhite);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.contact-support1 {
+  position: relative;
+  font-size: var(--body-bold-size);
+  line-height: 18px;
+  display: none;
+  font-family: var(--body-bold);
+  color: var(--primary-purple);
+  text-align: center;
+}
+.dashboard-inner,
+.instance-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dashboard-inner {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 360px;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.browser-mock-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 70px;
+}
+.browser-mock-item {
+  position: absolute;
+  top: 30px;
+  left: 8px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 272px;
+  height: 32px;
+}
+.carepayoneloactionclinic {
+  position: absolute;
+  top: 42px;
+  left: 44px;
+  font-size: var(--body-bold-size);
+  line-height: 101.2%;
+  text-align: left;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.div {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  letter-spacing: 0.12em;
+  line-height: 101.2%;
+  font-weight: 500;
+}
+.rectangle-container {
+  position: absolute;
+  top: 34px;
+  left: 296px;
+  width: 24px;
+  height: 24px;
+}
+.browser-mock-inner {
+  position: absolute;
+  top: 38px;
+  left: 336px;
+  width: 4px;
+  height: 16px;
+}
+.group-child1,
+.mask-group-child {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 16.63px;
+  height: 13px;
+}
+.mask-group-child {
+  top: 8.13px;
+  left: 3.25px;
+  border-radius: var(--br-11xl);
+  width: 8.13px;
+  height: 8.94px;
+}
+.mask-group {
+  top: 0;
+  left: 1px;
+  width: 14.63px;
+  height: 13px;
+}
+.b,
+.group-div,
+.mask-group {
+  position: absolute;
+}
+.group-div {
+  top: 30px;
+  left: 19px;
+  width: 16.63px;
+  height: 26px;
+}
+.b {
+  top: 0;
+  left: 0;
+  line-height: 101.2%;
+}
+.group-child2,
+.group-child3,
+.group-child4 {
+  position: absolute;
+  top: 2.29px;
+  left: 0;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2.29px;
+  height: 5.71px;
+}
+.group-child3,
+.group-child4 {
+  top: 1.14px;
+  left: 3.43px;
+  height: 6.86px;
+}
+.group-child4 {
+  top: 0;
+  left: 6.86px;
+  height: 8px;
+}
+.group-child5,
+.rectangle-parent1 {
+  position: absolute;
+  top: 1px;
+  left: 291.57px;
+  width: 9.14px;
+  height: 8px;
+}
+.group-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 12px;
+}
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  top: 1px;
+  left: 11px;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2px;
+  height: 6px;
+}
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 0;
+  left: 0;
+  width: 1.83px;
+  height: 4.57px;
+}
+.group-child8,
+.group-child9 {
+  left: 2.29px;
+}
+.group-child9 {
+  left: 4.57px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 1.71px;
+  left: 2.26px;
+  width: 6.4px;
+  height: 4.57px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 1px;
+  left: 306px;
+  width: 13px;
+  height: 8px;
+}
+.browser-mock,
+.status-bar {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+  width: 319px;
+  height: 10px;
+  font-family: var(--font-open-sans);
+}
+.browser-mock {
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 70px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-tt-commons);
+}
+.dashboard {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1260px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-bold-size);
+  color: var(--color-black);
+  font-family: var(--body-bold);
+}

@@ -1,0 +1,523 @@
+.bank-account-statement {
+  position: relative;
+}
+.bank-account-statement-upload-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-black);
+}
+.upload-bank-statement-container {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+}
+.upload-bank-statement-for-the-wrapper {
+  border-radius: var(--br-3xs);
+  background-color: var(--tertiary-purple);
+  width: 340px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--body-bold-size);
+}
+.radio-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.radio-parent {
+  border-radius: var(--br-3xs);
+  width: 340px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.radio-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b1,
+.radio-child,
+.radio-item {
+  position: absolute;
+}
+.radio-item {
+  height: 62.5%;
+  width: 62.5%;
+  top: 18.75%;
+  right: 18.75%;
+  bottom: 18.75%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b1 {
+  top: 12.5%;
+  left: 39.58%;
+  line-height: 18px;
+}
+.frame-parent22,
+.uploaded-pdfs-2-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent22 {
+  flex-direction: column;
+  padding: 0 0 var(--padding-xl);
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--body-bold-size);
+}
+.uploaded-pdfs-2-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+}
+.group-icon {
+  position: relative;
+  width: 51.2px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.frame-input {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background-color: var(--tertiary-purple);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.group-parent {
+  width: 336px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.vector-icon5 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.full-name-parent {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.vector-icon6 {
+  position: relative;
+  width: 22px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.input-box,
+.vector-wrapper {
+  display: flex;
+  padding: var(--padding-3xs);
+  justify-content: flex-start;
+}
+.vector-wrapper {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.input-box {
+  border-radius: var(--br-9xs);
+  background-color: var(--tertiary-purple);
+  width: 332px;
+  height: 48px;
+  flex-shrink: 0;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-3xs);
+  color: var(--color-gray-200);
+}
+.inputs,
+.your-data-is-encrypted-and-wil-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.your-data-is-encrypted-and-wil-wrapper {
+  width: 200px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--subtext-bold-size);
+  color: var(--primary-green);
+}
+.inputs {
+  flex-direction: column;
+  padding: var(--padding-11xs) var(--padding-9xs) var(--padding-base);
+  gap: var(--gap-3xs);
+}
+.continue {
+  position: relative;
+  line-height: 18px;
+}
+.continue-wrapper {
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-purple);
+  width: 340px;
+  height: 48px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.4;
+  color: var(--color-white);
+}
+.inputs-parent {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--body-bold-size);
+  color: var(--color-black);
+}
+.frame-parent23,
+.frame-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent23 {
+  flex: 1;
+  align-items: flex-start;
+  color: var(--color-gray-200);
+}
+.frame-section {
+  position: absolute;
+  top: 170px;
+  left: 10px;
+  width: 340px;
+  height: 600px;
+  padding: var(--padding-5xl) var(--padding-11xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--primary-purple);
+  font-family: var(--body-bold);
+}
+.browser-mock-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 70px;
+}
+.browser-mock-child2 {
+  position: absolute;
+  top: 30px;
+  left: 8px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 272px;
+  height: 32px;
+}
+.carepayoneloactionclinic1 {
+  position: absolute;
+  top: 42px;
+  left: 44px;
+  font-size: var(--body-bold-size);
+  line-height: 101.2%;
+  text-align: left;
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.div1 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  letter-spacing: 0.12em;
+  line-height: 101.2%;
+  font-weight: 500;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 34px;
+  left: 296px;
+  width: 24px;
+  height: 24px;
+}
+.browser-mock-child3 {
+  position: absolute;
+  top: 38px;
+  left: 336px;
+  width: 4px;
+  height: 16px;
+}
+.group-child11,
+.mask-group-item {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 16.63px;
+  height: 13px;
+}
+.mask-group-item {
+  top: 8.13px;
+  left: 3.25px;
+  border-radius: var(--br-11xl);
+  width: 8.13px;
+  height: 8.94px;
+}
+.mask-group1 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 14.63px;
+  height: 13px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 30px;
+  left: 19px;
+  width: 16.63px;
+  height: 26px;
+}
+.b3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 101.2%;
+}
+.group-child12,
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 2.29px;
+  left: 0;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2.29px;
+  height: 5.71px;
+}
+.group-child13,
+.group-child14 {
+  top: 1.14px;
+  left: 3.43px;
+  height: 6.86px;
+}
+.group-child14 {
+  top: 0;
+  left: 6.86px;
+  height: 8px;
+}
+.group-child15,
+.rectangle-parent6 {
+  position: absolute;
+  top: 1px;
+  left: 291.57px;
+  width: 9.14px;
+  height: 8px;
+}
+.group-child15 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 12px;
+}
+.group-child16,
+.group-child17,
+.group-child18,
+.group-child19 {
+  position: absolute;
+  top: 1px;
+  left: 11px;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2px;
+  height: 6px;
+}
+.group-child17,
+.group-child18,
+.group-child19 {
+  top: 0;
+  left: 0;
+  width: 1.83px;
+  height: 4.57px;
+}
+.group-child18,
+.group-child19 {
+  left: 2.29px;
+}
+.group-child19 {
+  left: 4.57px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 1.71px;
+  left: 2.26px;
+  width: 6.4px;
+  height: 4.57px;
+}
+.rectangle-parent7,
+.status-bar1 {
+  position: absolute;
+  top: 1px;
+  left: 306px;
+  width: 13px;
+  height: 8px;
+}
+.status-bar1 {
+  top: 7px;
+  left: 20px;
+  width: 319px;
+  height: 10px;
+  font-family: var(--font-open-sans);
+}
+.browser-mock1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 70px;
+}
+.layer-1-icon1 {
+  position: relative;
+  width: 131.71px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.carepay-logo-main-wo-padding-container {
+  width: 340px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.arrow-icon {
+  position: relative;
+  width: 21px;
+  height: 14.73px;
+  flex-shrink: 0;
+}
+.vector-container {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-3xs)
+    var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child20 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-antiquewhite);
+  width: 302px;
+}
+.group-child20,
+.group-child21,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 12px;
+}
+.group-child21 {
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-purple);
+  width: 290px;
+}
+.rectangle-parent9 {
+  width: 302px;
+}
+.group-container {
+  flex: 1;
+  position: relative;
+  height: 12px;
+}
+.frame-parent24 {
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.bank-account-statement-upload-inner,
+.frame-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bank-account-statement-upload-inner {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  background-color: var(--color-white);
+  padding: var(--padding-3xs);
+}
+.bank-account-statement-upload {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-tt-commons);
+}

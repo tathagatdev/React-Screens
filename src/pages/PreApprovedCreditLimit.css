@@ -1,0 +1,463 @@
+.cibil-check {
+  position: relative;
+}
+.cibil-check-wrapper {
+  width: 340px;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-5xl) var(--padding-11xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.aadhaar-card-otp34 {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  width: 288px;
+}
+.congratulations {
+  margin: 0;
+}
+.aadhaar-card-otp-container {
+  position: relative;
+  line-height: 24px;
+}
+.aadhaar-card-otp-verification-wrapper13 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+}
+.aadhaar-card-otp-verification-wrapper14 {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  font-size: var(--title-regular-size);
+  color: var(--primary-green);
+}
+.aadhaar-card-otp-verification-parent8 {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(99.82deg, #6db29f, #1c8769);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--subtext-bold-size);
+  color: var(--color-white);
+}
+.days {
+  font-weight: 600;
+  color: var(--color-mediumseagreen);
+}
+.aadhaar-card-otp-container1 {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  width: 288px;
+  flex-shrink: 0;
+}
+.aadhaar-card-otp-verification-wrapper15 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-9xs) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aadhaar-card-otp36 {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+}
+.aadhaar-card-otp-verification-wrapper16 {
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-9xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.have-any-questions {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  width: 280px;
+}
+.call-support {
+  line-height: 18px;
+}
+.call-support-91-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.call-support-91-11-4224-969-wrapper {
+  position: relative;
+  width: 218px;
+  height: 18px;
+  flex-shrink: 0;
+  text-align: center;
+}
+.get-in-touch-with-our-support-parent {
+  gap: var(--gap-9xs);
+}
+.frame-wrapper11,
+.get-in-touch-with-our-support-parent,
+.have-any-questions-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.have-any-questions-parent {
+  gap: var(--gap-3xs);
+}
+.frame-wrapper11 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-antiquewhite);
+  width: 340px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  color: var(--primary-purple);
+}
+.apply-for-credit {
+  position: relative;
+  font-size: var(--body-bold-size);
+  font-family: var(--body-bold);
+  color: var(--color-white);
+  text-align: left;
+}
+.apply-for-credit-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--primary-purple);
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  height: 48px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-a,
+.frame-parent25 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-a {
+  cursor: pointer;
+  text-decoration: none;
+  width: 340px;
+  padding: var(--padding-xl) 0 var(--padding-3xs);
+}
+.frame-parent25 {
+  position: absolute;
+  top: 170px;
+  left: 10px;
+  height: 600px;
+  padding: var(--padding-xl) 0 0;
+}
+.layer-1-icon2 {
+  position: relative;
+  width: 131.71px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.carepay-logo-main-wo-padding-frame {
+  width: 340px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child1 {
+  position: relative;
+  width: 21px;
+  height: 14.73px;
+  flex-shrink: 0;
+}
+.vector-frame {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-3xs)
+    var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child22 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-antiquewhite);
+  width: 302px;
+}
+.group-child22,
+.group-child23,
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 12px;
+}
+.group-child23 {
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-purple);
+  width: 252.01px;
+}
+.rectangle-parent10 {
+  width: 302px;
+}
+.group-frame {
+  flex: 1;
+  position: relative;
+  height: 12px;
+}
+.frame-parent27 {
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-parent26,
+.pre-approved-credit-limit-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pre-approved-credit-limit-inner {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  background-color: var(--color-white);
+  padding: var(--padding-3xs);
+}
+.browser-mock-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 70px;
+}
+.browser-mock-child5 {
+  position: absolute;
+  top: 30px;
+  left: 8px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  width: 272px;
+  height: 32px;
+}
+.carepayoneloactionclinic2 {
+  position: absolute;
+  top: 42px;
+  left: 44px;
+  font-size: var(--body-bold-size);
+  line-height: 101.2%;
+  text-align: left;
+}
+.group-child24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.div2 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  letter-spacing: 0.12em;
+  line-height: 101.2%;
+  font-weight: 500;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 34px;
+  left: 296px;
+  width: 24px;
+  height: 24px;
+}
+.browser-mock-child6 {
+  position: absolute;
+  top: 38px;
+  left: 336px;
+  width: 4px;
+  height: 16px;
+}
+.group-child25,
+.mask-group-inner {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 16.63px;
+  height: 13px;
+}
+.mask-group-inner {
+  top: 8.13px;
+  left: 3.25px;
+  border-radius: var(--br-11xl);
+  width: 8.13px;
+  height: 8.94px;
+}
+.mask-group2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 14.63px;
+  height: 13px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 30px;
+  left: 19px;
+  width: 16.63px;
+  height: 26px;
+}
+.b4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 101.2%;
+}
+.group-child26,
+.group-child27,
+.group-child28 {
+  position: absolute;
+  top: 2.29px;
+  left: 0;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2.29px;
+  height: 5.71px;
+}
+.group-child27,
+.group-child28 {
+  top: 1.14px;
+  left: 3.43px;
+  height: 6.86px;
+}
+.group-child28 {
+  top: 0;
+  left: 6.86px;
+  height: 8px;
+}
+.group-child29,
+.rectangle-parent13 {
+  position: absolute;
+  top: 1px;
+  left: 291.57px;
+  width: 9.14px;
+  height: 8px;
+}
+.group-child29 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 12px;
+}
+.group-child30,
+.group-child31,
+.group-child32,
+.group-child33 {
+  position: absolute;
+  top: 1px;
+  left: 11px;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-white);
+  width: 2px;
+  height: 6px;
+}
+.group-child31,
+.group-child32,
+.group-child33 {
+  top: 0;
+  left: 0;
+  width: 1.83px;
+  height: 4.57px;
+}
+.group-child32,
+.group-child33 {
+  left: 2.29px;
+}
+.group-child33 {
+  left: 4.57px;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 1.71px;
+  left: 2.26px;
+  width: 6.4px;
+  height: 4.57px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 1px;
+  left: 306px;
+  width: 13px;
+  height: 8px;
+}
+.browser-mock2,
+.status-bar2 {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+  width: 319px;
+  height: 10px;
+  font-family: var(--font-open-sans);
+}
+.browser-mock2 {
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 70px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-tt-commons);
+}
+.pre-approved-credit-limit {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-bold-size);
+  color: var(--color-dimgray);
+  font-family: var(--body-bold);
+}
